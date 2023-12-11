@@ -3,7 +3,7 @@
 A Python program for managing a dictionary list of cars.
 
 ## Start the program
-```py garage.py``` to start the program.
+Open garage.py to start the program (or ```py garage.py``` in VSC terminal) 
 
 ## Features
 * Display all cars
